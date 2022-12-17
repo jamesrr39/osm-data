@@ -1,0 +1,16 @@
+syntax = "proto3";
+package protos;
+option go_package = "github.com/jamesrr39/osm-web-data-files-generator/dfg/protos";
+
+message Node {
+  sint64 id = 1;
+  double lat = 2;
+  double lon = 3;
+
+  map<string, string> tags = 4;
+}
+  
+
+message DataFile {
+  repeated Node nodes = 1;
+}
