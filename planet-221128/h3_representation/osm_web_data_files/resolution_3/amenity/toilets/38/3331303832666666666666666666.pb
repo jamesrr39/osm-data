@@ -1,0 +1,18 @@
+
+ëªÇÆæÊ¿º≥I@çŸÌÑıH@"
+accesspublic"
+amenitytoilets"
+drinking_waterno"	
+feeno"
+toilets:disposal
+pitlatrine"
+
+wheelchairno
+`êµ––$§ë*ÂïI@√QM§è—H@"
+amenitytoilets"2
+fixme)—É—Ç–æ—á–Ω–∏—Ç—å —Ä–∞—Å–ø–æ–ª–æ–∂–µ–Ω–∏–µ
+`‘È”–$^ölMñI@:%2Ω≥H@"2
+fixme)—É—Ç–æ—á–Ω–∏—Ç—å —Ä–∞—Å–ø–æ–ª–æ–∂–µ–Ω–∏–µ"
+amenitytoilets
+,‰ÔÎﬁJ.s∫,&†I@Ã¯âÅH@"
+amenitytoilets

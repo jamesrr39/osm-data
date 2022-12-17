@@ -1,0 +1,16 @@
+
+,ˆÃ«ƒ8Užå·£C@Wó@¿ßYÀ"
+amenitytoilets
+JÈ¾—ˆ8×lå%ÿ£C@ÒË(–[ÑYÀ"	
+feeno"
+
+wheelchairyes"
+amenitytoilets
+Pä€áý9¹ýòÉŠ¡C@¯„IL+ìYÀ"
+amenitytoilets"
+source	knowledge"
+unisexyes
+BÔËò‘@é™©¹"D@2Æ, ÙçYÀ"
+access
+permissive"
+amenitytoilets

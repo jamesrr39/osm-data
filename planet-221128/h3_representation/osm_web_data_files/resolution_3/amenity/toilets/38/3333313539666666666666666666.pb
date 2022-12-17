@@ -1,0 +1,8 @@
+
+föÍ˜Â2s|þÅ}@C@OíS›`@"
+maleyes"
+
+wheelchairyes"
+amenitytoilets"	
+feeno"
+femaleyes

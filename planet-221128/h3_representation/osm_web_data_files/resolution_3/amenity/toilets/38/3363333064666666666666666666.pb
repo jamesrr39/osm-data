@@ -1,0 +1,6 @@
+
+dﬁ√øË.õ¢Ø≈\D¿â4àjùO¿"
+amenitytoilets"
+nameBa√±os P√∫blicos"
+unisexyes"
+accessyes

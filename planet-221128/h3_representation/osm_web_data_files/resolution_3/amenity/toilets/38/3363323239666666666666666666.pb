@@ -1,0 +1,23 @@
+
+;˜»Œ¼ï€ü¶DBÀø—8MúÏMÀ"
+accessyes"
+amenitytoilets
+lÌ»Ñ‘ €Ô&NîdBÀ™Î˜“aðMÀ"
+unisexyes"
+
+wheelchairlimited"
+accessyes"
+amenitytoilets"	
+feeno
+bÄßÚÒ?Õ,+¨eBÀœ9ðMÀ"
+
+wheelchairno"
+access	customers"
+amenitytoilets"
+femaleyes
+`ÐÊÛÒ?ÏÏÙeBÀû‡ã¯ðMÀ"
+access	customers"
+amenitytoilets"
+maleyes"
+
+wheelchairno

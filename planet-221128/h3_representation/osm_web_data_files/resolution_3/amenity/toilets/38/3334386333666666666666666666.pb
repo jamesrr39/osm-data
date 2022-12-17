@@ -1,0 +1,14 @@
+
+àö˘„‹	œœy1A@»])pW»Z¿"
+amenitytoilets"
+sourcesurvey;aerial imagery"
+toilets:disposal
+pitlatrine"
+toilets:handwashingno
+Aú–ªÎ$∆!—∫•@@ïÏ}O—ÀZ¿"
+amenitytoilets"
+source	knowledge
+,ö¢¢§O≠c∏Â@@y◊èÂ∑Z¿"
+amenitytoilets
+,Ï¢¢§œ¶~9Á@@ﬁhõ∏Z¿"
+amenitytoilets

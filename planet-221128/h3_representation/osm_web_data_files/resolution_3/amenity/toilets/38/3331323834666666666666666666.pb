@@ -1,0 +1,15 @@
+
+,Úê…µ )ÞÊBK@©Ý¯<`À"
+amenitytoilets
+JÌ¥¤ù*þ¹hÈx[K@é1ú	`À"
+accessyes"
+amenitytoilets"
+unisexyes
+JòÅ…Ô/h°©ó–K@FïTÀý!`À"
+amenitytoilets"
+nameVetter Falls toilets
+GØå…Ô/[‰/É·‹K@±iJW`À"
+amenitytoilets"
+nameLava lake toilets
+,’Œ—¥Jµ&Ìjp©K@F=Û`À"
+amenitytoilets

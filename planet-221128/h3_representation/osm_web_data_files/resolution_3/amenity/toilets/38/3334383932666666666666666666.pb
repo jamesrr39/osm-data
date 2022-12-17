@@ -1,0 +1,11 @@
+
+òÄÍ√ 'r•ûô<@∫_OÖâ˛W¿"
+accessyes"
+amenitytoilets"
+changing_tableno"	
+feeno"
+femaleyes"
+operatorLCRA"
+toilets:disposalflush
+,Ê£È£()ûøˆô<@5uh¢ô˛W¿"
+amenitytoilets

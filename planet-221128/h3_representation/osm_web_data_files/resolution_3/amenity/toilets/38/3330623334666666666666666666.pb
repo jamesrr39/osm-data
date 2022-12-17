@@ -1,0 +1,7 @@
+
+,Œá≥ÍÏ^kJwM@`7¢!FQ@"
+amenitytoilets
+F†è›†K{ˆ\¶]M@ÿ€¡„∂7Q@"
+accessyes"
+amenitytoilets"	
+feeno

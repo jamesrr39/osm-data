@@ -1,0 +1,5 @@
+
+WÒòð†#ÿ:Ü³SàÀqÞIU¤ç]@"
+amenitytoilets"
+nametoilet"
+toilets:disposalflush

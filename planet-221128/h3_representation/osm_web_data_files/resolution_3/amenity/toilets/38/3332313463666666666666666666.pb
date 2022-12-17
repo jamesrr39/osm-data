@@ -1,0 +1,23 @@
+
+,ð›ÚÉ	p<DH‚K@M·‘WŒÚR@"
+amenitytoilets
+,ú¶ÚÉ	Ï€;šK@¿¦½÷ÙR@"
+amenitytoilets
+, ÞŠÔ'’»cšK@=Ç6_[	S@"
+amenitytoilets
+[ÒÐµE…HáÕÍ¥K@¦]ñyêÄR@"
+amenitytoilets"
+toilets:disposal
+pitlatrine"
+accessyes
+[²ÑµE•í*¤¨K@Š
+0‡8ÀR@"
+accessyes"
+amenitytoilets"
+toilets:disposal
+pitlatrine
+[†àµET1ßÝ±K@¸ˆ9RÇ¾R@"
+amenitytoilets"
+toilets:disposal
+pitlatrine"
+accessyes

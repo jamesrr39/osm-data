@@ -1,0 +1,25 @@
+
+,Ì¹›ú½o|í™FA@šõ½áLXÀ"
+amenitytoilets
+,æƒõ¡ÎHÎÓÊ1A@|¸ä¸ÓôWÀ"
+amenitytoilets
+,º³õ¡]»þnË(A@¾Æ‰
+0øWÀ"
+amenitytoilets
+Vèš¢°!Ðk‚@A@<ýûçÄ<XÀ"
+amenitytoilets"	
+feeno"
+
+level0"
+
+wheelchairyes
+iÎŽ©J)'ñ^AA@¡Ž}>XÀ"
+access	customers"
+amenitytoilets"
+maleyes"
+toilets:disposalflush
+kÐŽ©Jâ=^AA@éò…>XÀ"
+access	customers"
+amenitytoilets"
+femaleyes"
+toilets:disposalflush

@@ -1,0 +1,9 @@
+
+Gåá≠é&8‘î	dC1¿SUh GO¿"
+amenitytoilets"
+operatorBa√±o publico
+f÷—®Å(–“81¿∞q¢ÃO¿"
+access	customers"
+amenitytoilets"
+changing_tableno"
+unisexyes

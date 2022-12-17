@@ -1,0 +1,32 @@
+
+‰ä‚ØËdÖ±w˝M@÷a;Œ#aE@"
+	addr:city–¢–æ—Ç—å–º–∞"
+addr:housenumber44"
+addr:postcode161300".
+addr:street–ó–∞–≥–æ—Ä–æ–¥–Ω–∞—è —É–ª–∏—Ü–∞"
+amenitytoilets"
+toilets:disposalflush"
+unisexyes"
+accesspublic
+‰û≠∞Ë7À¿\Ê¸M@wKr¿ÆaE@"
+addr:postcode161300".
+addr:street—É–ª–∏—Ü–∞ –í–æ—Ä–æ—à–∏–ª–æ–≤–∞"
+amenitytoilets"
+toilets:disposalflush"
+unisexyes"
+accesspublic"
+	addr:city–¢–æ—Ç—å–º–∞"
+addr:housenumber44
+ﬁ¿Â∞ËzLÓ¡µ¸M@äJŸÿ€`E@"
+	addr:city–¢–æ—Ç—å–º–∞"
+addr:housenumber62–ê"
+addr:postcode161300"&
+addr:street—É–ª–∏—Ü–∞ –õ–µ–Ω–∏–Ω–∞"
+amenitytoilets"
+toilets:disposalflush"
+unisexyes"
+accesspublic
+,Ñ«Ì”+'áO:ë3N@ÄÌÃ!F@"
+amenitytoilets
+,à«Ì”+IÆQ≈C˛M@…&TÀ1YE@"
+amenitytoilets

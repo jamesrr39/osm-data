@@ -1,0 +1,8 @@
+
+xí·‡—<¶•M0˜H@%›Öú-ÎY¿"
+accessyes"
+amenitytoilets"
+toilets:disposalflush"
+unisexyes"
+
+wheelchairyes

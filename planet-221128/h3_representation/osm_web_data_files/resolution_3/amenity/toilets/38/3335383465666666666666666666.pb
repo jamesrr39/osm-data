@@ -1,0 +1,8 @@
+
+k÷û‡çí´¢â¡I+@Oü”‚B~0@"
+amenitytoilets"	
+feeno"
+notenon"
+operatorcommune"
+
+wheelchairno

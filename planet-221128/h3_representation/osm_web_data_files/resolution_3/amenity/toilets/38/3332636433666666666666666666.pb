@@ -1,0 +1,6 @@
+
+,öÖþü!W$&¨á¹@@?¤)L)YK@"
+amenitytoilets
+=’«Çò7‘h]þžÞ@@äz%ÚŸ;K@"
+amenitytoilets"
+buildingyes

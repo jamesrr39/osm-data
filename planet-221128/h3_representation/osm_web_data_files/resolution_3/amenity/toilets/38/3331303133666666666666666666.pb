@@ -1,0 +1,10 @@
+
+NŒðœþ£øçX”uL@#ñ<ÉñG@"
+amenitytoilets"	
+feeno"
+
+wheelchairlimited
+LÈöèç6Ç7o÷ÍnL@«	¢îßG@"
+amenitytoilets"
+toilets:disposal
+pitlatrine

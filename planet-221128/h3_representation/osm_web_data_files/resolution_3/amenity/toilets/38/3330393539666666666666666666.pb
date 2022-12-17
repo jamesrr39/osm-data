@@ -1,0 +1,144 @@
+
+7 ùÚ«´ö{£PQ@¨u‚rº*0@"
+amenitytoilets"	
+feeno
+Ö†„ÿ±‘]ùQQ@b‰¿Ì/@"'
+noteOnly for guests of the campsite"
+operatorBleik Camping"
+access	customers"
+amenitytoilets
+7“ÄÍÑøÓ.+Q@Ì•Ñª‘/@"
+amenitytoilets"	
+feeno
+}Œ∆±í”@‚ü.Q@ö≈’<e1@"
+capacity1"
+toilets:disposal
+dry_toilet"
+
+wheelchairyes"
+accessyes"
+amenitytoilets
+,ÑœàìÆíŸj +Q@\ÑsWú0@"
+amenitytoilets
+}ñ˛Á◊Êã•y8Q@+bmÁÄ0@"
+accessyes"
+amenitytoilets"
+capacity2"
+toilets:disposal
+dry_toilet"
+
+wheelchairyes
+äÜ◊€Èi⁄¬ÌVQ@DÓÿæ61@"	
+feeno"
+toilets:disposalflush"
+
+wheelchairyes"
+accessyes"
+amenitytoilets"
+changing_tableno
+Å‘Ò€ÈNÈ™ä:WQ@A£œ¢“1@"
+accessyes"
+amenitytoilets"	
+feeno"
+femaleno"
+
+maleno"
+unisexno"
+
+wheelchairyes
+t®ÊäÍ=–ØRÊTQ@õoÈ=:"0@"
+accessyes"
+amenitytoilets"
+changing_tableyes"	
+feeno"
+
+wheelchairlimited
+Gàä”Ö ÆÕÿÊ,Q@Xœ§®é‘.@"
+amenitytoilets"
+nameCircle K Sortland
+}™Ÿ˜ˆ*»Ôm˙3$Q@óÑU™0@"
+accessyes"
+amenitytoilets"
+capacity2"
+toilets:disposal
+dry_toilet"
+
+wheelchairyes
+x¥Ÿ˜ˆ*7¯g´7CQ@so®ŒΩ/@"
+accessyes"
+amenitytoilets"
+capacity1"
+toilets:disposalflush"
+
+wheelchairyes
+xÃŸ˜ˆ*{^;bæ1Q@H9ÛÛñ0@"
+toilets:disposalflush"
+
+wheelchairyes"
+accessyes"
+amenitytoilets"
+capacity2
+}Ä⁄˜ˆ*≠-·u¢<Q@1ÒGQgú0@"
+
+wheelchairyes"
+accessyes"
+amenitytoilets"
+capacity2"
+toilets:disposal
+dry_toilet
+} Ê˜ˆ*´Rƒ329Q@Â©Êv1@"
+amenitytoilets"
+capacity2"
+toilets:disposal
+dry_toilet"
+
+wheelchairyes"
+accessyes
+}ÃÊ˜ˆ*œ" Õ¶8Q@¢ZÈv1@"
+capacity2"
+toilets:disposal
+dry_toilet"
+
+wheelchairyes"
+accessyes"
+amenitytoilets
+}ŒÊ˜ˆ*d}^LéEQ@†ªn[•ë1@"
+toilets:disposal
+dry_toilet"
+
+wheelchairyes"
+accessyes"
+amenitytoilets"
+capacity2
+x÷Ê˜ˆ*ãW¥î&Q@ò‹Õ¯có0@"
+accessyes"
+amenitytoilets"
+capacity2"
+toilets:disposalflush"
+
+wheelchairyes
+ãÿÊ˜ˆ*jù]c<7Q@ Ir
+<=0@"
+accessyes"
+amenitytoilets"
+capacity2"
+fixmeposition"
+toilets:disposalflush"
+
+wheelchairyes
+,†—Ì§+ﬁ¿.‘´FQ@‡HE4%/@"
+amenitytoilets
+XÊ£“Ú0Qîi¥,Q@T\∞Ø–÷.@"
+access	customers"
+amenitytoilets"	
+feeno"
+
+level0
+C ¨˚£4ªÔ{.Q@9XîmŸ0@"
+amenitytoilets"
+opening_hours24/7
+eÑ©Ù©5¸Ï6^?Q@∑‘A^é0@"
+amenitytoilets"
+toilets:disposalflush"
+unisexyes"
+accessyes
