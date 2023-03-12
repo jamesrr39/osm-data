@@ -1,0 +1,4 @@
+
+M€úüï{´‚ð²PP@.¼Üq‰@@"
+amenitydrinking_water"
+nameÐŸÑ€Ð¸Ð±Ñ‹Ñ‚Ð¸Ðµ

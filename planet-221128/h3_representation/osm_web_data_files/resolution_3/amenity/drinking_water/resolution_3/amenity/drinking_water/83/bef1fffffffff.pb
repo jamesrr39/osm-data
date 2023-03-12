@@ -1,0 +1,16 @@
+
+3ø¹ÿ¯ê‘«ýBˆ<Àî&ø¦éÈb@"
+amenitydrinking_water
+3¸Øÿ¯vß1<ˆ<ÀÎ*"yÉb@"
+amenitydrinking_water
+3à‡€°ÇõïúÌ‹<ÀÕSú“Éb@"
+amenitydrinking_water
+3È €°mÉÂ‹<Àü¨+D¬Éb@"
+amenitydrinking_water
+3ÎÖ€°#S™½ÇŒ<À”¾rÞÉb@"
+amenitydrinking_water
+Hòí¯¼=~Ø1Äw=Àdˆ­êöºb@"
+amenitydrinking_water"
+fountainbubbler
+3¸ ÷¼=mD‹Ç Œ<ÀzÕÒÉb@"
+amenitydrinking_water

@@ -1,0 +1,4 @@
+
+A∞Å√ª2pK?<¶7¿áùsyK¿"
+amenitydrinking_water"
+indoorno

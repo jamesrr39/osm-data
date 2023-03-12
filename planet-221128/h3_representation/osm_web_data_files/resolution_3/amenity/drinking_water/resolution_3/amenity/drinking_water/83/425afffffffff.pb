@@ -1,0 +1,7 @@
+
+X–Âäð_\O¤Q:@Ö'o6R@"
+amenitydrinking_water"#
+nameDrinking Water Tank Jatawas
+T®á¸ûMäÝìjI:@mÚMBR@"
+amenitydrinking_water"
+namekn college water cooler

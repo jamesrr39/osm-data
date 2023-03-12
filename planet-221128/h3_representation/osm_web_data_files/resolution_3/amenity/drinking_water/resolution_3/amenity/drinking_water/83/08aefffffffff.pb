@@ -1,0 +1,15 @@
+
+c¥Æ’ô_EF$ÓN@3†(µé0@"
+amenitydrinking_water"
+notemaybe winter"
+opening_hoursJun-Aug
+3»Ñ€Òqlá–RÊN@Ê3Íkßâ0@"
+amenitydrinking_water
+]–Øî∞$UpxADºN@á`0‚?0@"
+amenitydrinking_water"
+drinking_wateryes"
+naturalspring
+]Óµî∞$:kÎΩN@ê±$ä⁄?0@"
+amenitydrinking_water"
+drinking_wateryes"
+naturalspring

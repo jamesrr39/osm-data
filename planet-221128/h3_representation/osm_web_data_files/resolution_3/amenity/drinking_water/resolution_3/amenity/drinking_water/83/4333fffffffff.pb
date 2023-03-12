@@ -1,0 +1,20 @@
+
+RÊå¼­ë,Ä4•<@Äc?‹¥ÊJ@"
+amenitydrinking_water"
+nameØ¢Ø¨ Ø¢Ø´Ø§Ù…ÛŒØ¯Ù†ÛŒ
+RÌå¼­HðÐÁD•<@8@zÔ©ÊJ@"
+amenitydrinking_water"
+nameØ¢Ø¨ Ø¢Ø´Ø§Ù…ÛŒØ¯Ù†ÛŒ
+3Öçö4»ï½dˆ<@cêøy£J@"
+amenitydrinking_water
+3øö4–rf–<@°¡åŠœ£J@"
+amenitydrinking_water
+~¾‡õ43½iŸ3z<@XØÂâ&ÆJ@"
+amenitydrinking_water"I
+nameAÙ…ØºØ²Ù† Ø¢Ø¨ Ú©Ù„Ù‡ Ù‚ÙˆÚ†ÛŒ Ø´Ù‡Ø± Ø¬Ù‡Ø±Ù… Ø§Ø¯Ø§Ø±Ù‡ Ø¢Ø¨ÙØ§
+gú‡õ4Þ)xer}<@ÇÇÝÖÌÐJ@"
+amenitydrinking_water"2
+name*Ù…Ø®Ø²Ù† Ø¢Ø¨ Ù…Ø­Ù…ÙˆØ¯ Ø¢Ø¨Ø§Ø¯ Ø¬Ù‡Ø±Ù…
+^ºÃ“ô>#ž‘­Ó<@Ívp¸J@"
+amenitydrinking_water")
+name!ØªØµÙˆÛŒÙ‡ Ø®Ø§Ù†Ù‡ Ø¢Ø¨ Ø¬Ù‡Ø±Ù…

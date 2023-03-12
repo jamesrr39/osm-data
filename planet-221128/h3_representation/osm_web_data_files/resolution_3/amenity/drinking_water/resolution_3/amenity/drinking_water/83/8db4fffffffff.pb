@@ -1,0 +1,7 @@
+
+XêÊŽö*D‚N­c± À<ÇÛ¥è]@"
+amenitydrinking_water"#
+name:enWater Refill @ Eco Hotel
+zœÄÜþ2žá¨Ö¸ ÀpþèI]@"
+amenitydrinking_water"E
+name:en:Gili Water Refill Depot supply and Service Reverse Osmosis

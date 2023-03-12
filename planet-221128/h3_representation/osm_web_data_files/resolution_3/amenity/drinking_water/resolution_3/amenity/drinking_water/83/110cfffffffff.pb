@@ -1,0 +1,5 @@
+
+cê˚›‚$ünEeO@31]à∆@@"
+amenitydrinking_water"
+name—É –Æ—Å—Ç–æ–∑–µ—Ä–∞"
+naturalspring

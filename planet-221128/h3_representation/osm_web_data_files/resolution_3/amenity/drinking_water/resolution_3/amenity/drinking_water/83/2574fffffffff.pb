@@ -1,0 +1,5 @@
+
+yÇ∂ûô(*5 Á¢ˆJ@Ü6•aÇY@"
+addr:countryRU"0
+addr:region!–ò—Ä–∫—É—Ç—Å–∫–∞—è –æ–±–ª–∞—Å—Ç—å"
+amenitydrinking_water

@@ -1,0 +1,3 @@
+
+3åô§—©^»4‰‚H@ç§ì€dS¿"
+amenitydrinking_water

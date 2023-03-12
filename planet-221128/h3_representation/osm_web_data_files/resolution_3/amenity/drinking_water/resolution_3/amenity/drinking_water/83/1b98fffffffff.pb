@@ -1,0 +1,6 @@
+
+TÙî’„3iÜ¨n‡H@;Tì;vL¿"
+accessyes"
+amenitydrinking_water"
+
+wheelchairno
