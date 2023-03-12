@@ -4,5 +4,5 @@ Extracts of OSM data. Data is organised/sharded by [h3 cell](https://h3geo.org),
 
 The main branch of the repo is published to GitHub pages.
 
-So, as well as the raw file view, you can fetch content by going to e.g. https://jamesrr39.github.io/osm-data/planet-221128/h3_representation/osm_web_data_files/resolution_3/amenity/toilets/83/010dfffffffff.pb
+So, as well as the raw file view, you can fetch content by going to e.g. [https://jamesrr39.github.io/osm-data/planet-221128/h3_representation/osm_web_data_files/resolution_3/amenity/toilets/83/010dfffffffff.pb](https://jamesrr39.github.io/osm-data/planet-221128/h3_representation/osm_web_data_files/resolution_3/amenity/toilets/83/010dfffffffff.pb)
 
